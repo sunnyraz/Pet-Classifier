@@ -29,3 +29,8 @@ Pet Classifier is a deep learning project aimed at distinguishing between images
     [Dog vs Cat Classifier Kaggle Notebook](https://www.kaggle.com/code/sunnyraz/dog-vs-cat/)
 
     Feel free to explore and run the notebook to delve deeper into the project.
+
+
+3. **Colab Google Notebook:**
+   I've included a notebook version for testing and validation on Google Colab.
+   
