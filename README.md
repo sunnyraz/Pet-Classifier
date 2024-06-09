@@ -1,4 +1,4 @@
-# Pet Classifier
+# Pet Classifier (Transfer Learning)
 
 Pet Classifier is a deep learning project aimed at distinguishing between images of cats and dogs. Leveraging transfer learning techniques with a ResNet50 architecture, the model is trained on a dataset containing labeled images of cats and dogs.
 
